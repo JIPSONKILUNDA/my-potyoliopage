@@ -1,5 +1,15 @@
-img{
-        width:200px;
-        height:200;
-          
+*{
+        margin:0;
+        padding:0;
+}
+body{
+        background-image: url(images/download\ \(1\).jfif);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+         
+}
+.header img{
+        width: 130px;
+        height: 130px;
 }
